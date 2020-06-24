@@ -1383,7 +1383,6 @@ General Styles - Owlcarousel
 }
 
 .titan-title-size-1 {
-  letter-spacing: 4px;
   font-size: 15px;
 }
 
@@ -1395,8 +1394,13 @@ General Styles - Owlcarousel
 }
 
 .titan-title-size-3 {
-  letter-spacing: 16px;
-  font-size: 46px;
+  /* letter-spacing: 16px;
+  font-size: 46px; */
+    letter-spacing: 5px;
+    line-height: 1.3;
+    font-size: 24px;
+    opacity: .8;
+
 }
 
 .titan-title-size-4 {
