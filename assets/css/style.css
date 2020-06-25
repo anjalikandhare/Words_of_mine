@@ -892,6 +892,10 @@ blockquote {
   letter-spacing: 2px;
 }
 
+.font-anjali {
+    font-family: 'Acme', sans-serif;
+}
+
 .font-alt {
   font-family: "Roboto Condensed", sans-serif;
   text-transform: uppercase;

@@ -897,6 +897,10 @@ blockquote {
   letter-spacing: 2px;
 }
 
+.font-anjali {
+  font-family: 'Acme', sans-serif;
+}
+
 .font-serif {
   font-family: Volkhov, "Times New Roman", sans-serif;
   font-style: italic;
