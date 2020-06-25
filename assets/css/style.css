@@ -901,7 +901,9 @@ blockquote {
   text-transform: uppercase;
   letter-spacing: 2px;
 }
-
+.font-ak {
+      font-family: 'Inconsolata', monospace;
+  }
 .font-serif {
   font-family: Volkhov, "Times New Roman", sans-serif;
   font-style: italic;

@@ -895,12 +895,14 @@ blockquote {
   font-family: "Roboto Condensed", sans-serif;
   text-transform: uppercase;
   letter-spacing: 2px;
-  
+
 }
 .font-anjali {
   font-family: 'Oleo Script Swash Caps', cursive;
 }
-
+.font-ak {
+    font-family: 'Inconsolata', monospace;
+}
 .font-serif {
   font-family: Volkhov, "Times New Roman", sans-serif;
   font-style: italic;
