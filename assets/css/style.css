@@ -891,7 +891,10 @@ blockquote {
   font-family: 'Rouge Script', cursive;
   letter-spacing: 2px;
 }
+.font-akk {
+  font-family: 'Cormorant Garamond', serif;
 
+}
 .font-anjali {
     font-family: 'Oleo Script Swash Caps', cursive;
 }
