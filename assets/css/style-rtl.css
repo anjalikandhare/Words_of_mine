@@ -895,7 +895,9 @@ blockquote {
   font-family: "Roboto Condensed", sans-serif;
   text-transform: uppercase;
   letter-spacing: 2px;
-
+}
+.font-whtever {
+  font-family: 'Pangolin', cursive;
 }
 .font-akk {
   font-family: 'Cormorant Garamond', serif;
