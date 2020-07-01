@@ -887,10 +887,6 @@ blockquote {
   padding: 0;
 }
 
-.font-cursive {
-  font-family: 'Rouge Script', cursive;
-}
-
 .font-alt {
   font-family: "Roboto Condensed", sans-serif;
   text-transform: uppercase;
@@ -913,10 +909,6 @@ blockquote {
 }
 .font-aka {
   font-family: 'Lobster', cursive;
-}
-.font-serif {
-  font-family: Volkhov, "Times New Roman", sans-serif;
-  font-style: italic;
 }
 
 .large-text {

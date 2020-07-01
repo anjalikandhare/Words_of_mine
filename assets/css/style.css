@@ -887,10 +887,6 @@ blockquote {
   padding: 0;
 }
 
-.font-cursive {
-  font-family: 'Rouge Script', cursive;
-  letter-spacing: 2px;
-}
 .font-akk {
   font-family: 'Cormorant Garamond', serif;
 }
@@ -915,10 +911,6 @@ blockquote {
 .font-ak {
       font-family: 'Inconsolata', monospace;
   }
-.font-serif {
-  font-family: Volkhov, "Times New Roman", sans-serif;
-  font-style: italic;
-}
 
 .large-text {
   font-size: 24px !important;
